@@ -13,3 +13,4 @@ Confira abaixo do que se trata cada um deles:
 | ASR 6 | Ordenação e busca de dados por permuta | Comparar o tempo de execução dos algoritmos bubbleSort e quickSort |
 | ASR 7 | Ordenação e busca de dados por intercalação de listas | Comparar o tempo de execução do algoritmo mergeSort |
 | ASR 8 | Ordenação e busca de dados inspiradas em ABB | Comparar o tempo de execução do algoritmo heapSort |
+| ASR 9 | Espalhamento (hashing) de dados | Geração de chaves |
